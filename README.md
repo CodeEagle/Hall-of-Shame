@@ -19,9 +19,9 @@ iOS 耻辱柱
  `坐标`:`广州`,
  
 
-`拉钩`:[`http://www.lagou.com/gongsi/86763.html`](http://www.lagou.com/gongsi/86763.html)
+`拉钩`:[`http://www.lagou.com/gongsi/86763.html`](http://www.lagou.com/gongsi/86763.html),
 
-`官网`:[`http://www.luxuryker.com/`](http://www.luxuryker.com/)
+`官网`:[`http://www.luxuryker.com/`](http://www.luxuryker.com/),
 
 `简介`:`不过注册新公司，骗了一批就换公司再搞，再骗下去，已经是惯犯了。各种理由拖欠工资。`
 
