@@ -12,8 +12,7 @@ iOS 耻辱柱
 老板：胡鸿尚
 坐标：广州
 
-![img](shame_one.jpg =100x100)
-
+<img src="shame_one.jpg" alt="Drawing" width="100px" />
 
 [拉钩招聘地址](http://www.lagou.com/gongsi/86763.html)
 
