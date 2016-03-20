@@ -11,7 +11,7 @@ iOS 耻辱柱
 
 老板：胡鸿尚
 
-![img](http://www.lagou.com/image1/M00/3E/EB/CgYXBlW_DgCASU8zAAC74sLtGdo083.jpg =100x100)
+![img](shame_one.jpg =100x100)
 
 [拉钩招聘地址](http://www.lagou.com/gongsi/86763.html)
 
